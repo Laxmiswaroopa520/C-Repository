@@ -1,0 +1,14 @@
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.AssemblyInfoInputs.cache
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.AssemblyInfo.cs
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.csproj.CoreCompileInputs.cache
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\bin\Debug\net8.0\assignement1.exe
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\bin\Debug\net8.0\assignement1.deps.json
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\bin\Debug\net8.0\assignement1.runtimeconfig.json
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\bin\Debug\net8.0\assignement1.dll
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\bin\Debug\net8.0\assignement1.pdb
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.dll
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\refint\assignement1.dll
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.pdb
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\assignement1.genruntimeconfig.cache
+C:\Users\Laxmi Bandaru\source\repos\assignement1\assignement1\obj\Debug\net8.0\ref\assignement1.dll
